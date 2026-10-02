@@ -1,0 +1,124 @@
+바탕화면 고양이 개인 사용 라이선스 1.0
+Desktop Cat Personal Use License 1.0
+
+Copyright (c) 2026 Dawnilove. All rights reserved.
+
+이 라이선스는 한국어와 영어로 쓰여 있어요. 두 내용이 서로 다르게 읽히면 한국어가 우선해요.
+This license is written in Korean and English. If they differ, the Korean text controls.
+
+================================================================
+한국어
+================================================================
+
+1. 무엇에 적용되나요
+   이 라이선스는 "바탕화면 고양이"(이하 "프로그램")에 적용돼요. 프로그램에는
+   실행 파일, 소스 코드, 고양이 그림과 아이콘, 문서가 모두 들어가요.
+   저작권자는 Dawnilove예요.
+
+2. 할 수 있는 것
+   개인(사람 한 명)이 돈을 벌 목적 없이 자기 컴퓨터에서 쓰는 경우에 한해,
+   다음을 무료로 할 수 있어요.
+   (1) 프로그램을 내려받아 자기 컴퓨터에 두고 실행하기
+   (2) 자기 컴퓨터에서만 쓰려고 설정을 바꾸거나 소스 코드를 고쳐 보기
+   (3) 백업을 위해 복사해 두기
+
+3. 허락을 받아야 하는 것
+   저작권자의 서면(이메일 포함) 허락 없이는 다음을 할 수 없어요.
+   (1) 회사·학교·기관·단체의 업무에 쓰거나, 돈을 버는 일에 쓰기
+   (2) 프로그램이나 고친 프로그램을 다른 사람에게 나눠 주기, 올려 두기, 팔기,
+       빌려주기, 다른 제품이나 서비스에 넣기
+   (3) 고양이 그림·아이콘을 프로그램 밖에서 따로 쓰기
+   (4) 저작권 표시, 이 라이선스, 면책 조항을 지우거나 바꾸기
+   다른 사람에게 알려 주고 싶을 때는 파일 대신 공식 배포 위치를 알려 주세요.
+
+4. 다른 사람이 만든 부분
+   프로그램에는 Qt for Python(PySide6), Python, Anthropic SDK 같은 오픈소스
+   구성 요소가 들어 있어요. 이 구성 요소들은 각자의 라이선스를 따르고, 이
+   라이선스가 그 권리를 줄이거나 바꾸지 않아요. 목록과 전문은
+   THIRD_PARTY_NOTICES.md와 licenses 폴더에 있어요.
+   특히 PySide6/Qt는 GNU LGPL 3.0을 따르며, 사용자는 그 조건에 따라 해당
+   라이브러리를 바꿔 끼울 수 있어요(압축 파일 배포판의 DLL·모듈 파일).
+
+5. 내가 만든 것과 내 데이터
+   사용자가 프로그램으로 한 질문과 받은 답, 설정은 사용자의 것이에요.
+   저작권자는 여기에 아무 권리도 주장하지 않아요.
+
+6. 상표
+   "Claude"와 "Anthropic"은 Anthropic PBC의 상표예요. 이 프로그램은 개인이 만든
+   것이고 Anthropic과 관계가 없으며, Anthropic이 후원하거나 보증하지 않아요.
+
+7. 보증 없음, 책임 제한
+   프로그램은 "있는 그대로" 제공되고, 어떤 보증도 하지 않아요. 자세한 내용은
+   DISCLAIMER.md를 따라요. 법이 허락하는 한, 저작권자는 프로그램을 쓰거나 쓰지
+   못해서 생긴 손해에 책임지지 않아요.
+
+8. 끝나는 경우
+   이 라이선스를 어기면 사용 권리는 그때 바로 끝나요. 그러면 프로그램과 복사본을
+   모두 지워야 해요. 저작권자는 이 라이선스를 앞으로 바꿀 수 있고, 바뀐 내용은
+   그 뒤에 받은 판부터 적용돼요.
+
+9. 그 밖의 것
+   여기에 쓰이지 않은 권리는 모두 저작권자에게 있어요. 이 라이선스는 대한민국
+   법을 따라요.
+
+================================================================
+English
+================================================================
+
+1. Scope
+   This license applies to "Desktop Cat" (the "Software"), including its
+   executables, source code, cat artwork and icons, and documentation.
+   The copyright holder is Dawnilove.
+
+2. What you may do
+   If you are an individual using the Software on your own computer for
+   non-commercial purposes, you may, free of charge:
+   (1) download, keep, and run the Software on your own computer;
+   (2) change its settings or modify the source code for your own use on
+       your own computer; and
+   (3) make backup copies.
+
+3. What needs permission
+   Without prior written permission (email counts) from the copyright holder,
+   you may not:
+   (1) use the Software for the work of a company, school, institution, or
+       organization, or for any commercial purpose;
+   (2) distribute, publish, upload, sell, rent, or lend the Software or a
+       modified version, or include it in another product or service;
+   (3) use the cat artwork or icons outside the Software; or
+   (4) remove or alter the copyright notice, this license, or the disclaimer.
+   To share the Software, point people to the official download location
+   instead of passing on the files.
+
+4. Third-party components
+   The Software includes open-source components such as Qt for Python
+   (PySide6), Python, and the Anthropic SDK. Each is governed by its own
+   license, and this license does not limit or change those rights. See
+   THIRD_PARTY_NOTICES.md and the licenses folder for the list and full texts.
+   In particular, PySide6/Qt is used under the GNU LGPL 3.0, and you may
+   replace those libraries under its terms (the DLL and module files in the
+   zip distribution).
+
+5. Your content
+   Your questions, the answers you receive, and your settings belong to you.
+   The copyright holder claims no rights in them.
+
+6. Trademarks
+   "Claude" and "Anthropic" are trademarks of Anthropic PBC. The Software is a
+   personal project, is not affiliated with Anthropic, and is not sponsored
+   or endorsed by Anthropic.
+
+7. No warranty; limitation of liability
+   The Software is provided "as is", without warranty of any kind. See
+   DISCLAIMER.md for details. To the extent permitted by law, the copyright
+   holder is not liable for any damages arising from the use of, or inability
+   to use, the Software.
+
+8. Termination
+   Your rights end automatically if you breach this license, and you must then
+   delete the Software and all copies. The copyright holder may change this
+   license for future releases; changes apply to copies obtained afterwards.
+
+9. Other
+   All rights not expressly granted are reserved by the copyright holder.
+   This license is governed by the laws of the Republic of Korea.
